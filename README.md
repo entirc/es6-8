@@ -1,9 +1,26 @@
-# ENTIRC - 
-## Meetup 8 - ES6 New Features
+# [ENTIRC](https://goo.gl/tVHxqc)
+## Meetup #8
+### ES6 - Generators
+***
+### About this project
+Codes used in the eighth ES6 (2015) Meetup Group [ENTIRC](https://goo.gl/tVHxqc).
+### Basic requirements
 
-> A Vue.js project
+* [Node.js](https://nodejs.org/en)
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Github]()
+* [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 
-## Build Setup
+### How to install
+1. You can fork the project to your repository in github.
+2. Clone the project directly to your machine, on the console type (you need to have github installed on your machine):
+```
+# cd mkdir myFolder
+# cd myFolder
+# git clone https://github.com/entirc/es6-8.git
+```
+
+### Build Setup
 
 ``` bash
 # install dependencies
